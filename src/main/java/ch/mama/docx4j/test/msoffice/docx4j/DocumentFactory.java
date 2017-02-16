@@ -1,24 +1,3 @@
-/* *****************************************************************************
- * CREALOGIX AG 
- * Defense 
- * Baslerstrasse 60, Postfach 112 
- * CH-8066 Z�rich 
- * 
- * http://defense.crealogix.com
- *******************************************************************************
- *
- * $Author: Mattia Amato$
- * $Date: 09.02.2017 11:23:30$
- * $Revision: 1$
- *
- * $Project: Bund-FIS_LW$
- * $Folder: docx4j$
- * $Workfile: DocumentFactory.java$
- *
- * Description: see JavaDoc comment of this class.
- *
- ***************************************************************************** */
-
 package ch.mama.docx4j.test.msoffice.docx4j;
 
 import java.io.File;
